@@ -1,2 +1,2 @@
 # hello-world
-first project
+taking the Johns Hopkins data analytics course on Coursera. 
